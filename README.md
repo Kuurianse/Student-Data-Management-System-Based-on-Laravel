@@ -33,4 +33,3 @@ A web application built with the Laravel framework to manage student data. This 
 ### 5. **Pagination**
 - Paginated student data to ensure smooth user experience for large datasets.
 
----
